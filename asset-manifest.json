@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/restaurant-reservations/static/css/main.6d855cdd.css",
+    "main.js": "/restaurant-reservations/static/js/main.de222c0d.js",
+    "index.html": "/restaurant-reservations/index.html",
+    "main.6d855cdd.css.map": "/restaurant-reservations/static/css/main.6d855cdd.css.map",
+    "main.de222c0d.js.map": "/restaurant-reservations/static/js/main.de222c0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d855cdd.css",
+    "static/js/main.de222c0d.js"
+  ]
+}
